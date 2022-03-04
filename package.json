@@ -1,0 +1,21 @@
+{
+    "name": "candyrush-light",
+    "displayName": "candyrush",
+    "description": "it's all about candy!(candy with light)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "candyrush",
+                "uiTheme": "vs",
+                "path": "./themes/candyrush-color-theme.json"
+            }
+        ]
+    }
+}
