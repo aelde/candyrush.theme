@@ -1,3 +1,4 @@
 hello, let enjoy candyrush time!!
-# candyrush.theme
+and this is maketplace link: https://marketplace.visualstudio.com/items?itemName=aelde.candyrush-light 
+
 # candyrush.theme
