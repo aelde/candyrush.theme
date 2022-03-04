@@ -1,6 +1,13 @@
 {
 	"name": "candyrush.theme",
 	"displayName": "Candy Rush",
+	"description": "Candy Rush theme for VS Code",
+	"version": "0.0.1",
+	"publisher": "aelde",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aelde/candyrush.theme.git"
+	},
 	  "type": "light",
 	  "colors": {
 		"activityBar.background": "#DAFCFF",
