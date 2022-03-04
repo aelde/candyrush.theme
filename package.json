@@ -3,6 +3,19 @@
     "displayName": "candyrush",
     "description": "it's all about candy!(candy with light)",
     "version": "0.0.1",
+    "publisher": "aelde",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/aelde/candyrush.theme.git"
+	},
+    "keywords": [
+        "theme",
+        "light theme",
+        "candy",
+        "candy theme",
+        "aelde",
+        "candy light"
+    ],
     "engines": {
         "vscode": "^1.65.0"
     },
